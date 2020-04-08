@@ -11,6 +11,7 @@
 * 多线程任务调度及调优
 
 游戏图片：
-<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/游戏中.png" width="100" height="100">
-<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/游戏结束.png" width="100" height="100">
-<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/玩家胜利.png" width="100" height="100">
+
+<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/游戏中.png" width="400" height="300">
+<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/游戏结束.png" width="400" height="300">
+<img src="https://github.com/luocr7/TankWar-Game/blob/master/坦克大战/MainForm/MainForm/bin/Debug/Img/玩家胜利.png" width="400" height="300">
