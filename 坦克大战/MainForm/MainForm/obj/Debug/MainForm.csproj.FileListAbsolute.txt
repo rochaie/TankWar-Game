@@ -1,0 +1,10 @@
+D:\c++程序\坦克大战\MainForm\MainForm\bin\Debug\MainForm.exe.config
+D:\c++程序\坦克大战\MainForm\MainForm\bin\Debug\MainForm.exe
+D:\c++程序\坦克大战\MainForm\MainForm\bin\Debug\MainForm.pdb
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.exe
+D:\c++程序\坦克大战\MainForm\MainForm\obj\Debug\MainForm.pdb
